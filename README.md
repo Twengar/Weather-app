@@ -1,0 +1,1 @@
+Une application montrant la météo d'une ville choisie. L'application se réinitialise toutes les heures. Pour modifier l'endroit il suffit de changer le nom de la ville dans le fichier script.js, dans la ligne sous le commentaire vert.
